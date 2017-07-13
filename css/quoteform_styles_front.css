@@ -1,0 +1,38 @@
+#panel-quote-form .row-centered {
+	text-align: center;
+}
+
+#panel-quote-form .col-centered {
+	display: inline-block;
+	float: none;
+	text-align: left;
+	margin-right: -4px;
+}
+
+#panel-quote-form .col-fixed {
+	width: 320px;
+}
+
+#panel-quote-form .col-min {
+	min-width: 320px;
+}
+
+#panel-quote-form .col-max {
+	max-width: 320px;
+}
+
+#panel-quote-form .last {
+	margin-bottom: 0px;
+}
+
+#panel-quote-form .no-margin {
+	margin: 0px !important;
+}
+
+#panel-quote-form .margin-top-15 {
+	margin-top: 15px !important;
+}
+
+body .bootstrap-timepicker-widget table td input{
+	    width: 40px;
+}

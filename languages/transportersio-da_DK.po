@@ -1,0 +1,224 @@
+# Translation of Plugins - Transporters.io - Stable (latest release) in Thai
+# This file is distributed under the same license as the Plugins - Transporters.io - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"Plural-Forms: nplurals=1; plural=0;"
+"X-Generator: GlotPress/2.3.0-alpha"
+"Language: da_DK"
+"Project-Id-Version: Plugins - Transporters.io - Stable (latest release)"
+
+#. Author URI of the plugin/theme
+msgid "https://transporters.io/"
+msgstr "https://transporters.io/"
+
+#. Author of the plugin/theme
+msgid "transporters.io"
+msgstr "transporters.io"
+
+#. Description of the plugin/theme
+msgid "Transporters quote form"
+msgstr "Transporters tilbuds formular"
+
+#. Plugin URI of the plugin/theme
+msgid "http://transporters.io/"
+msgstr "http://transporters.io/"
+
+#. Plugin Name of the plugin/theme
+msgid "Transporters.io"
+msgstr "Transporters.io"
+
+#: includes/class-quoteform-widget.php:279
+msgid "Select Quote Form :"
+msgstr "Vælg Tilbuds Formular"
+
+#: includes/class-quoteform-widget.php:8 includes/class-quoteform-widget.php:9
+msgid "Transporters Quote Form"
+msgstr "Transporters Tilbuds Formular"
+
+#: includes/class-quoteform-shortcode.php:261
+msgid "Please input URL Site."
+msgstr "Indsæt venligst URL for siden."
+
+#: includes/class-quoteform-shortcode.php:254
+msgid "Thank you for your request for a quote."
+msgstr "Mange tak for din anmodning om et tilbud."
+
+#: includes/class-quoteform-shortcode.php:238
+msgid "Get Quote"
+msgstr "Få et Tilbud"
+
+#: includes/class-quoteform-shortcode.php:232
+msgid "Back"
+msgstr "Tilbage"
+
+#: includes/class-quoteform-shortcode.php:225
+msgid "Mobile number"
+msgstr "Mobilnummer"
+
+#: includes/class-quoteform-shortcode.php:221
+msgid "Contact email"
+msgstr "Kontakt E-mail"
+
+#: includes/class-quoteform-shortcode.php:217
+msgid "Contact name"
+msgstr "Kontakt navn"
+
+#: includes/class-quoteform-shortcode.php:213
+msgid "Booking details"
+msgstr "Booking detaljer"
+
+#: includes/class-quoteform-shortcode.php:209
+msgid "Journey Type"
+msgstr "Rejse Type"
+
+#: includes/class-quoteform-shortcode.php:180
+msgid "Return date & time"
+msgstr "Returrejse dato og tid"
+
+#: includes/class-quoteform-shortcode.php:172
+msgid "Return journey needed?"
+msgstr "Behov for returrejse?"
+
+#: includes/class-quoteform-shortcode.php:130
+msgid "Confirm destination"
+msgstr "Bekræft destination"
+
+#: includes/class-quoteform-shortcode.php:114
+msgid "Confirm start location"
+msgstr "Bekræft start lokation"
+
+#: includes/class-quoteform-shortcode.php:77
+#: includes/class-quoteform-shortcode.php:148
+msgid "Pickup date & time"
+msgstr "Afhentings dato og tid"
+
+#: includes/class-quoteform-shortcode.php:68
+msgid "Destination"
+msgstr "Destination"
+
+#: includes/class-quoteform-shortcode.php:61
+#: includes/class-quoteform-shortcode.php:70
+msgid "Enter a location"
+msgstr "Indtast en lokation"
+
+#: includes/class-quoteform-shortcode.php:59
+msgid "Start location"
+msgstr "Start lokation"
+
+#: includes/class-quoteform-shortcode.php:53
+msgid "Get a Quote"
+msgstr "Få et Tilbud"
+
+#: includes/class-quoteform-setting.php:143
+msgid "Update Setting"
+msgstr "Opdater Indstillinger"
+
+#: includes/class-quoteform-setting.php:138
+msgid "Google Map API Key"
+msgstr "Google Map API Nøgle"
+
+#: includes/class-quoteform-setting.php:133
+msgid "Get Google map API Key"
+msgstr "Få en Google map API Nøgle"
+
+#: includes/class-quoteform-setting.php:111
+msgid "Update Quote Form"
+msgstr "Opdater Tilbuds Formularen"
+
+#: includes/class-quoteform-setting.php:106
+msgid "Multiple company profiles is a Transporters Pro feature. If you want to assign this quote form to a profile enter its ID number in the box below."
+msgstr "Flere firmaprofiler er en Transporters Pro funktion. Hvis du vil tildele denne tilbuds formular til en profil, indtast dennes ID-nummer i feltet nedenfor."
+
+#: includes/class-quoteform-setting.php:102
+msgid "Custom JS"
+msgstr "Brugerdefinerede JS"
+
+#: includes/class-quoteform-setting.php:98
+msgid "Custom CSS"
+msgstr "Brugerdefinerede CSS"
+
+#: includes/class-quoteform-setting.php:94
+msgid "Custom JS (after back)"
+msgstr "Brugerdefinerede JS (efter tilbage funktionen)"
+
+#: includes/class-quoteform-setting.php:90
+msgid "Custom JS (after stage 2)"
+msgstr "Brugerdefinerede JS (efter trin 2)"
+
+#: includes/class-quoteform-setting.php:86
+msgid "Custom JS  (after stage 1)"
+msgstr "Brugerdefinerede JS (efter trin 1)"
+
+#: includes/class-quoteform-setting.php:80
+msgid "Default to return journey"
+msgstr "Sæt returrejse som standard valg"
+
+#: includes/class-quoteform-setting.php:76
+#: includes/class-quoteform-setting.php:138
+msgid "required"
+msgstr "påkrævet"
+
+#: includes/class-quoteform-setting.php:76
+msgid "URL Site"
+msgstr "Hjemmeside URL"
+
+#: includes/class-quoteform-setting.php:71
+msgid "Short code"
+msgstr "Kort kode"
+
+#: includes/class-quoteform-setting.php:70
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/class-quoteform-setting.php:19
+msgid "For support please visit"
+msgstr "For support kan du besøge"
+
+#: includes/class-quoteform-setting.php:18
+msgid "Simply enter your details on the quote form pages and then insert as either a widget or shortcode."
+msgstr "Du skal blot indtaste dine oplysninger på tilbuds formular siderne og derefter indsætte dem enten som en widget eller en kort kode."
+
+#: includes/class-quoteform-setting.php:17
+msgid "This plugin allows you to style and place up to 3 Transporters quote forms on your website"
+msgstr "Dette plugin giver dig mulighed for at style og placere op til 3 Transporters tilbuds formularer på din hjemmeside"
+
+#: includes/class-quoteform-setting.php:16
+msgid "Welcome to the Transporters.io Wordpress Plugin"
+msgstr "Velkommen til Transporters.io Wordpress Plugin"
+
+#: includes/class-quoteform-setting.php:14
+msgid "Dashboard"
+msgstr "Betjeningspanel"
+
+#: includes/class-quoteform-widget.php:210
+#: includes/class-quoteform-shortcode.php:201
+msgid "Vehicle Type"
+msgstr "Køretøjstype"
+
+#: includes/class-quoteform-setting.php:8
+#: includes/class-quoteform-setting.php:23
+msgid "Setting"
+msgstr "Indstillinger"
+
+#: includes/class-quoteform-setting.php:7
+#: includes/class-quoteform-setting.php:22
+msgid "Quote Form 3"
+msgstr "Tilbuds Formular 3"
+
+#: includes/class-quoteform-setting.php:6
+#: includes/class-quoteform-setting.php:21
+msgid "Quote Form 2"
+msgstr "Tilbuds Formular 2"
+
+#: includes/class-quoteform-setting.php:5
+#: includes/class-quoteform-setting.php:20
+msgid "Quote Form 1"
+msgstr "Tilbuds Formular 1"
+
+#: includes/quoteform_scripts_front.php:107
+msgid "This field is required."
+msgstr "Dette felt er påkrævet."
